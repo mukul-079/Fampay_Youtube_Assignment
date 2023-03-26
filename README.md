@@ -4,9 +4,9 @@
 
 ### Built With
 1. Python
-2. Flask
-3. Sqlite3
-4. Docker
+2. Flask: Framework
+3. Docker: For Scaling 
+4. Sqlite3: Database
 
 ## Project Goal
 
@@ -80,3 +80,14 @@ python app.py
 &nbsp;
 ![To get Video DB](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/4.png)
 &nbsp;
+
+## Build application
+Build the Docker Application.
+```
+docker build -t fampay_youtube_assignment .
+```
+
+Run that Docker Application.
+```
+docker run -p 8000:5050 fampay_youtube_assignment
+```
