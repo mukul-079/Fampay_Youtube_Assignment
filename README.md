@@ -45,45 +45,38 @@ python app.py
 
 ## Home Page
 * for Home page "http://127.0.0.1:5050/"
-$~$
+&nbsp;
 ![Home](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/1.png)
-$~$
+&nbsp;
 
 
 ## API Endpoints
 * To get all videos(GET): "http://127.0.0.1:5050/api/get_video_data/"
-$~$
+&nbsp;
 ![Get_Video_Data](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/2.png)
-$~$
+&nbsp;
    
     
 
 * To search from stored data(GET): "http://127.0.0.1:5050/api/search/<topic>"
-$~$
+&nbsp;
 ![Search_Stored_Query](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/5.png)
-$~$
+&nbsp;
     
 
 * To Insert API Key(POST): "http://127.0.0.1:5050/api/add_key"
-$~$
+&nbsp;
 ![Insert_ADD_key](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/6.png)
-$~$
+&nbsp;
     
 
 * To get API DB: "http://127.0.0.1:5050/api_db"
-$~$
+&nbsp;
 ![get API Key DB](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/3.png)
-$~$
+&nbsp;
 
 
 * To get Video DB: "http://127.0.0.1:5050/video_db"
-$~$
+&nbsp;
 ![To get Video DB](https://raw.githubusercontent.com/mukul-079/Fampay_Youtube_Assignment/master/Screenshots/4.png)
-$~$
-
-
-
-
-
-
-
+&nbsp;
